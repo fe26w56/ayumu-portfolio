@@ -1,0 +1,367 @@
+{
+  "source_repository": "fe26w56/health-tracker",
+  "source_tree": "afd44f93c7c81bab678b0a88e472c97400bcf4c4",
+  "snapshot_date": "2026-10-28",
+  "files": [
+    {
+      "path": "shared/move-model.ts",
+      "git_blob_sha": "ccb555cc2fc9c912d03f71113bbdad9db6982d01",
+      "size": 17205
+    },
+    {
+      "path": "shared/planner-model.ts",
+      "git_blob_sha": "d2045334a363875e23f9f68c039c7319033365f5",
+      "size": 2184
+    },
+    {
+      "path": "shared/state-migration.ts",
+      "git_blob_sha": "ec429a102b5429681f40c48f7e8eee11c88e7875",
+      "size": 851
+    },
+    {
+      "path": "shared/state-validation.ts",
+      "git_blob_sha": "e651837ff17cab65e79413905fa414d37ed14e5a",
+      "size": 7517
+    },
+    {
+      "path": "shared/strength-workout.ts",
+      "git_blob_sha": "69e79e1def5bca02b434cf0e3af701017abdc94d",
+      "size": 734
+    },
+    {
+      "path": "web/index.html",
+      "git_blob_sha": "e50545c9aeaf52a174bb6477f9c9b4e9dc1b1ac0",
+      "size": 820
+    },
+    {
+      "path": "web/mobile-runtime.lock.json",
+      "git_blob_sha": "9da506762de2a743abf13de9e53771e24f1b2e7a",
+      "size": 2606
+    },
+    {
+      "path": "web/package-lock.json",
+      "git_blob_sha": "28b166eb4b845783ea85e30dbf64431d1bd6534f",
+      "size": 111001
+    },
+    {
+      "path": "web/package.json",
+      "git_blob_sha": "ded7b26f665a6056f0ab6d6908a2a5ff4353931c",
+      "size": 1572
+    },
+    {
+      "path": "web/public/assets/android/Keyboard.png",
+      "git_blob_sha": "bf959faf47b346c68a023c142cc3a17f455eb5da",
+      "size": 42695
+    },
+    {
+      "path": "web/public/assets/android/Pixel10.png",
+      "git_blob_sha": "2ba4a10d65f45c022ec27777b0d81bd330700a11",
+      "size": 214337
+    },
+    {
+      "path": "web/public/assets/android/navigation-bar.svg",
+      "git_blob_sha": "9e795438d527a54f3e179d99d41b1b11a9957ca7",
+      "size": 542
+    },
+    {
+      "path": "web/public/assets/iphone/Bezel.png",
+      "git_blob_sha": "759e8aaff849f2a8f8d4876cbb63c119e5bf5f6f",
+      "size": 353980
+    },
+    {
+      "path": "web/public/assets/iphone/Keyboard.png",
+      "git_blob_sha": "80207c335d6f10878a85e27a3b2d70a09c9f79be",
+      "size": 53341
+    },
+    {
+      "path": "web/public/assets/status/ios-status-icons.svg",
+      "git_blob_sha": "b75235ae4eacef02b1ef43f2e19c8f0c69e380bb",
+      "size": 2765
+    },
+    {
+      "path": "web/public/assets/status/status-icons.svg",
+      "git_blob_sha": "8a97e8182bf7698ec7c9db93a69f1fe47bbc0845",
+      "size": 824
+    },
+    {
+      "path": "web/scripts/check-mobile-runtime.mjs",
+      "git_blob_sha": "72bf53d266d43fed9e81d782db773134c2776bb1",
+      "size": 1212
+    },
+    {
+      "path": "web/src/App.tsx",
+      "git_blob_sha": "7f737b893490f0bf0f6c83f6be0fd8c21a065da3",
+      "size": 466
+    },
+    {
+      "path": "web/src/Prototype.tsx",
+      "git_blob_sha": "e9d0f8fc0c656111dbc5b9902fba9d17eb342ff5",
+      "size": 188591
+    },
+    {
+      "path": "web/src/component-fixes.css",
+      "git_blob_sha": "50c87f7d461f98acef85ed660a69612243dd081f",
+      "size": 193
+    },
+    {
+      "path": "web/src/condition-sphere/MembraneSphere.tsx",
+      "git_blob_sha": "c4d64521273493dc1a44d3199c951fb668b84aa9",
+      "size": 2547
+    },
+    {
+      "path": "web/src/condition-sphere/condition-sphere.css",
+      "git_blob_sha": "a76a6a170eaa6576596e35074207b78f0feb0074",
+      "size": 648
+    },
+    {
+      "path": "web/src/condition-sphere/createMembraneSphere.ts",
+      "git_blob_sha": "d0af52bab2e60fb79be3cf28b3aa093da3375ac2",
+      "size": 9963
+    },
+    {
+      "path": "web/src/condition-sphere/index.ts",
+      "git_blob_sha": "8c07046c54796ef22bdfffc4a853d121b87759fc",
+      "size": 486
+    },
+    {
+      "path": "web/src/condition-sphere/mapping.ts",
+      "git_blob_sha": "5ee2cb5bf85cc1816a03183b88e8ede5fdc1c81e",
+      "size": 5743
+    },
+    {
+      "path": "web/src/condition-sphere/shaders.ts",
+      "git_blob_sha": "08318f1a8a3be226dbb639e66734828d3a603689",
+      "size": 7844
+    },
+    {
+      "path": "web/src/condition-sphere/types.ts",
+      "git_blob_sha": "bcedf96acd8f6b02270cf5d70d914c0492922c13",
+      "size": 2045
+    },
+    {
+      "path": "web/src/data/README.md",
+      "git_blob_sha": "90ca8c736adc9c52ebf1632fa3349ef16c208c7c",
+      "size": 3511
+    },
+    {
+      "path": "web/src/data/app-clock.ts",
+      "git_blob_sha": "8c7b12c13ba3618c2dfd7a54e083c0c5e833ec44",
+      "size": 887
+    },
+    {
+      "path": "web/src/data/backup.ts",
+      "git_blob_sha": "6cd7a7a3f3e91d6867fb65b45f607bec9d70fd39",
+      "size": 2614
+    },
+    {
+      "path": "web/src/data/health-checks.ts",
+      "git_blob_sha": "1e73f9b2da72e9396c9966f5de21cbae66d997dd",
+      "size": 915
+    },
+    {
+      "path": "web/src/data/health-model.ts",
+      "git_blob_sha": "a1af88df6b126565d1ce60368347d78f7fa221d0",
+      "size": 12069
+    },
+    {
+      "path": "web/src/data/health-store.ts",
+      "git_blob_sha": "a3def39932249c2c3e8d7624d13f31d4ccd98459",
+      "size": 1953
+    },
+    {
+      "path": "web/src/data/meal-snapshot.ts",
+      "git_blob_sha": "b2adfb6486c1a39fd442beae25c82135889e4431",
+      "size": 264
+    },
+    {
+      "path": "web/src/data/model.ts",
+      "git_blob_sha": "8fdd81d8f0ad685cb9814f121988133d8a4845ab",
+      "size": 47
+    },
+    {
+      "path": "web/src/data/move-model.ts",
+      "git_blob_sha": "b6ed6a84a50ba853ddbc6a7c7987c00a22068beb",
+      "size": 44
+    },
+    {
+      "path": "web/src/data/move-store.ts",
+      "git_blob_sha": "3aee22ad13e6a181a1a54673775c0d019e5e7c98",
+      "size": 1142
+    },
+    {
+      "path": "web/src/data/planner-store.ts",
+      "git_blob_sha": "ccc60512f34f9b64c4d8f34b1a3b6c06f6a1fbd8",
+      "size": 2088
+    },
+    {
+      "path": "web/src/data/recipes.json",
+      "git_blob_sha": "ec216b4a3026281db53aea7203612b6eb9948ad6",
+      "size": 12373
+    },
+    {
+      "path": "web/src/data/recovery.ts",
+      "git_blob_sha": "9b18d67447ed02f0fe3d3a4b28cbdff7512d6186",
+      "size": 1281
+    },
+    {
+      "path": "web/src/data/remote-planner-store.ts",
+      "git_blob_sha": "2448b14ea88bb501fc16d4c7daabd996bb7365a0",
+      "size": 2678
+    },
+    {
+      "path": "web/src/data/remote-wellness-store.ts",
+      "git_blob_sha": "a5be33e27844b7bf33cde195d267e36b44ff5289",
+      "size": 2957
+    },
+    {
+      "path": "web/src/data/seed-state.json",
+      "git_blob_sha": "354c39498d04988b35116e78e3219de121d6ceb9",
+      "size": 161
+    },
+    {
+      "path": "web/src/data/state-migration.ts",
+      "git_blob_sha": "b28d8080a8558931e410d9405588c9d0b8c6a4cc",
+      "size": 49
+    },
+    {
+      "path": "web/src/data/state-validation.ts",
+      "git_blob_sha": "8fca3fcc8a7e928c79e223f5f2ada30cf5afd17d",
+      "size": 50
+    },
+    {
+      "path": "web/src/data/strength-workout.ts",
+      "git_blob_sha": "0b0ce3b7e3183feb060d44c4832ca6962989e504",
+      "size": 50
+    },
+    {
+      "path": "web/src/data/sync-engine.ts",
+      "git_blob_sha": "9539738243b0f231aeb29d53a84f15380c814349",
+      "size": 12715
+    },
+    {
+      "path": "web/src/data/time-series.ts",
+      "git_blob_sha": "4efd1506170974564e77661f2b04cd4f7942772d",
+      "size": 3616
+    },
+    {
+      "path": "web/src/main.tsx",
+      "git_blob_sha": "9ff4f467b33d63c7f02dc7d00b6eeb85c58208ab",
+      "size": 307
+    },
+    {
+      "path": "web/src/mobile/BottomSheet.tsx",
+      "git_blob_sha": "7075bef3ce6554b54a8b92936e41984f1901c32f",
+      "size": 4392
+    },
+    {
+      "path": "web/src/mobile/COMPONENTS.md",
+      "git_blob_sha": "3d0e379c119a77be4a98cf296fe479b1fbcf8cec",
+      "size": 2067
+    },
+    {
+      "path": "web/src/mobile/Carousel.tsx",
+      "git_blob_sha": "4c10b64fc9ae816c535332079cf07d303a75e91c",
+      "size": 11376
+    },
+    {
+      "path": "web/src/mobile/Device.tsx",
+      "git_blob_sha": "aedf08456e28224ee614d8c20510524c92c52099",
+      "size": 3537
+    },
+    {
+      "path": "web/src/mobile/FlowStack.tsx",
+      "git_blob_sha": "f98f257bc3018144c6bf615e2a5d1d547de2cdf5",
+      "size": 7244
+    },
+    {
+      "path": "web/src/mobile/Keyboard.tsx",
+      "git_blob_sha": "01c24de819be9de5747b000fff5f25c3694b8616",
+      "size": 7247
+    },
+    {
+      "path": "web/src/mobile/MobileCursor.tsx",
+      "git_blob_sha": "d1fec8dee0fe937353ca10d593c730ad27025bb4",
+      "size": 2171
+    },
+    {
+      "path": "web/src/mobile/MobileRuntime.tsx",
+      "git_blob_sha": "edc53b9d72604136a12f5ec1569538f52bce47bc",
+      "size": 1338
+    },
+    {
+      "path": "web/src/mobile/MobileScroll.tsx",
+      "git_blob_sha": "75040432a52697fd960fc1cf8c2cd40ca242ebf0",
+      "size": 14325
+    },
+    {
+      "path": "web/src/mobile/PhoneFrame.tsx",
+      "git_blob_sha": "c9f0ce51f0635fd06b6d9bf4d790f546b96dc54c",
+      "size": 4448
+    },
+    {
+      "path": "web/src/mobile/assets.ts",
+      "git_blob_sha": "7ac2f6a49d064a1dbbda9df24b5287723be7a8d3",
+      "size": 232
+    },
+    {
+      "path": "web/src/mobile/components.tsx",
+      "git_blob_sha": "998fd35454040c0cd6c31b708ebe8ab5b9d4c282",
+      "size": 2691
+    },
+    {
+      "path": "web/src/mobile/geometry.ts",
+      "git_blob_sha": "3cd22d8260fcc8e35f7e37361382cdbe8b932659",
+      "size": 1244
+    },
+    {
+      "path": "web/src/mobile/index.ts",
+      "git_blob_sha": "2b25283fb96c0ec8c18bcf70fe325cc25cfd207e",
+      "size": 802
+    },
+    {
+      "path": "web/src/prototype.css",
+      "git_blob_sha": "3ca2615e6ff72cfddfdef5c3d8c611a7b8b2ef98",
+      "size": 74539
+    },
+    {
+      "path": "web/src/stitch-generated.css",
+      "git_blob_sha": "57a787748693b5897f7209be8c807d86b8dcc048",
+      "size": 36562
+    },
+    {
+      "path": "web/src/stitch-input.css",
+      "git_blob_sha": "43901b06a6b7a0c26da917fe671363da08c7be89",
+      "size": 33889
+    },
+    {
+      "path": "web/src/styles.css",
+      "git_blob_sha": "addfd283c1d30e3bb47736885ed117c3ae5c4300",
+      "size": 14264
+    },
+    {
+      "path": "web/src/vite-env.d.ts",
+      "git_blob_sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38
+    },
+    {
+      "path": "web/tailwind.config.cjs",
+      "git_blob_sha": "2d4facc2e8aafd833c727c84fca59f3bbdf4df45",
+      "size": 1574
+    },
+    {
+      "path": "web/tsconfig.json",
+      "git_blob_sha": "dfc3fbee87d79258402f4bfd95113dbc7d25d1aa",
+      "size": 527
+    },
+    {
+      "path": "web/vite.config.ts",
+      "git_blob_sha": "025adf382c8a51e8d8ef9dce3414253a274fc08c",
+      "size": 255
+    },
+    {
+      "path": "web/scripts/update-mobile-runtime-lock.mjs",
+      "git_blob_sha": "7d9127587fcc495a299c3b902847fc40ca4e2722",
+      "size": 1732
+    }
+  ]
+}

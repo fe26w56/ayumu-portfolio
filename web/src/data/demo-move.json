@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "patterns": [
+    {
+      "id": "walking",
+      "name": "ウォーキング",
+      "category": "walking",
+      "exercises": [],
+      "defaultDurationMinutes": 20,
+      "defaultIntensity": "light",
+      "weeklyMinutes": 100,
+      "preferredWeekdays": [],
+      "enabled": true
+    },
+    {
+      "id": "light",
+      "name": "ストレッチ",
+      "category": "light",
+      "exercises": [],
+      "defaultDurationMinutes": 10,
+      "defaultIntensity": "light",
+      "weeklyMinutes": 30,
+      "preferredWeekdays": [],
+      "enabled": true
+    },
+    {
+      "id": "rest",
+      "name": "休息日",
+      "category": "rest",
+      "exercises": [],
+      "defaultDurationMinutes": 0,
+      "defaultIntensity": "light",
+      "weeklyMinutes": 0,
+      "preferredWeekdays": [],
+      "enabled": true
+    }
+  ],
+  "records": [
+    {
+      "id": "demo-walk-0",
+      "date": "2030-04-08",
+      "patternId": "walking",
+      "type": "ウォーキング",
+      "durationMinutes": 20,
+      "outcome": "complete",
+      "source": "manual",
+      "intensity": "light"
+    },
+    {
+      "id": "demo-walk-1",
+      "date": "2030-04-09",
+      "patternId": "walking",
+      "type": "ウォーキング",
+      "durationMinutes": 25,
+      "outcome": "complete",
+      "source": "manual",
+      "intensity": "light"
+    },
+    {
+      "id": "demo-walk-2",
+      "date": "2030-04-10",
+      "patternId": "walking",
+      "type": "ウォーキング",
+      "durationMinutes": 30,
+      "outcome": "complete",
+      "source": "manual",
+      "intensity": "light"
+    }
+  ],
+  "recommendations": [],
+  "notificationTime": "08:00"
+}

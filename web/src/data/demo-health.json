@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "sleepTargetMinutes": 480,
+  "daily": [
+    {
+      "date": "2030-04-05",
+      "bodyScore": 72,
+      "status": "サンプル",
+      "sleepMinutes": 420,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 5000,
+      "restingHeartRate": 60,
+      "hrv": 45,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 69,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 75,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 73,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 71,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-06",
+      "bodyScore": 76,
+      "status": "サンプル",
+      "sleepMinutes": 425,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 5350,
+      "restingHeartRate": 60,
+      "hrv": 46,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 73,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 79,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 77,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 75,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-07",
+      "bodyScore": 68,
+      "status": "サンプル",
+      "sleepMinutes": 430,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 5700,
+      "restingHeartRate": 60,
+      "hrv": 47,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 65,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 71,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 69,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 67,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-08",
+      "bodyScore": 74,
+      "status": "サンプル",
+      "sleepMinutes": 435,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 6050,
+      "restingHeartRate": 60,
+      "hrv": 48,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 71,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 77,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 75,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 73,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-09",
+      "bodyScore": 78,
+      "status": "サンプル",
+      "sleepMinutes": 440,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 6400,
+      "restingHeartRate": 60,
+      "hrv": 49,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 75,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 81,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 79,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 77,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-10",
+      "bodyScore": 71,
+      "status": "サンプル",
+      "sleepMinutes": 445,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 6750,
+      "restingHeartRate": 60,
+      "hrv": 50,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 68,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 74,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 72,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 70,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    },
+    {
+      "date": "2030-04-11",
+      "bodyScore": 77,
+      "status": "サンプル",
+      "sleepMinutes": 450,
+      "sleepNeedMinutes": 480,
+      "sleepFinalized": true,
+      "steps": 7100,
+      "restingHeartRate": 60,
+      "hrv": 51,
+      "scores": [
+        {
+          "key": "sleep",
+          "label": "睡眠",
+          "value": 74,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "recovery",
+          "label": "回復",
+          "value": 80,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "activity",
+          "label": "活動",
+          "value": 78,
+          "source": "derived",
+          "detail": "架空データ"
+        },
+        {
+          "key": "circulation",
+          "label": "循環",
+          "value": 76,
+          "source": "derived",
+          "detail": "架空データ"
+        }
+      ]
+    }
+  ],
+  "exercises": [],
+  "healthChecks": [],
+  "reports": []
+}

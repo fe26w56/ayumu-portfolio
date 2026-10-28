@@ -1,0 +1,158 @@
+[
+  {
+    "id": "demo-oats",
+    "name": "ヨーグルトとオーツ",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "breakfast"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 410,
+      "protein": 20,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  },
+  {
+    "id": "demo-toast",
+    "name": "たまごのトースト",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "breakfast"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 22,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  },
+  {
+    "id": "demo-bowl",
+    "name": "豆と野菜のボウル",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "lunch"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 620,
+      "protein": 26,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  },
+  {
+    "id": "demo-pasta",
+    "name": "きのこのパスタ",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "lunch"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 660,
+      "protein": 24,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  },
+  {
+    "id": "demo-fish",
+    "name": "魚と野菜のプレート",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "dinner"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 710,
+      "protein": 38,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  },
+  {
+    "id": "demo-soup",
+    "name": "豆腐と野菜のスープ",
+    "category": "デモメニュー",
+    "mealSlots": [
+      "dinner"
+    ],
+    "servings": 1,
+    "prepMinutes": 15,
+    "tags": [
+      "架空サンプル"
+    ],
+    "nutrition": {
+      "calories": 580,
+      "protein": 28,
+      "fat": 15,
+      "carbs": 60,
+      "fiber": 7
+    },
+    "ingredients": [
+      "画面確認用の架空メニューです。"
+    ],
+    "steps": [
+      "分量・栄養値はUI検証用の仮値です。"
+    ]
+  }
+]

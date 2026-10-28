@@ -1,0 +1,391 @@
+{
+  "version": 1,
+  "dailyTargets": {
+    "calories": 2100,
+    "protein": 90
+  },
+  "weekTargetCalories": 14700,
+  "plans": [
+    {
+      "id": "demo-plan-0-0",
+      "date": "2030-04-08",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-0-1",
+      "date": "2030-04-08",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-0-2",
+      "date": "2030-04-08",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-1-0",
+      "date": "2030-04-09",
+      "slot": "breakfast",
+      "recipeId": "demo-toast",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-1-1",
+      "date": "2030-04-09",
+      "slot": "lunch",
+      "recipeId": "demo-pasta",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-1-2",
+      "date": "2030-04-09",
+      "slot": "dinner",
+      "recipeId": "demo-soup",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-2-0",
+      "date": "2030-04-10",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-2-1",
+      "date": "2030-04-10",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-2-2",
+      "date": "2030-04-10",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-3-0",
+      "date": "2030-04-11",
+      "slot": "breakfast",
+      "recipeId": "demo-toast",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-3-1",
+      "date": "2030-04-11",
+      "slot": "lunch",
+      "recipeId": "demo-pasta",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-3-2",
+      "date": "2030-04-11",
+      "slot": "dinner",
+      "recipeId": "demo-soup",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-4-0",
+      "date": "2030-04-12",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-4-1",
+      "date": "2030-04-12",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-4-2",
+      "date": "2030-04-12",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-5-0",
+      "date": "2030-04-13",
+      "slot": "breakfast",
+      "recipeId": "demo-toast",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-5-1",
+      "date": "2030-04-13",
+      "slot": "lunch",
+      "recipeId": "demo-pasta",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-5-2",
+      "date": "2030-04-13",
+      "slot": "dinner",
+      "recipeId": "demo-soup",
+      "order": 2,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-6-0",
+      "date": "2030-04-14",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "order": 0,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-6-1",
+      "date": "2030-04-14",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "order": 1,
+      "portion": 1
+    },
+    {
+      "id": "demo-plan-6-2",
+      "date": "2030-04-14",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "order": 2,
+      "portion": 1
+    }
+  ],
+  "actuals": [
+    {
+      "id": "demo-actual-0-0",
+      "planId": "demo-plan-0-0",
+      "date": "2030-04-08",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "calories": 410,
+      "protein": 20,
+      "nutrition": {
+        "calories": 410,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "ヨーグルトとオーツ"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-08T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-0-1",
+      "planId": "demo-plan-0-1",
+      "date": "2030-04-08",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "calories": 620,
+      "protein": 26,
+      "nutrition": {
+        "calories": 620,
+        "protein": 26,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "豆と野菜のボウル"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-08T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-0-2",
+      "planId": "demo-plan-0-2",
+      "date": "2030-04-08",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "calories": 710,
+      "protein": 38,
+      "nutrition": {
+        "calories": 710,
+        "protein": 38,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "魚と野菜のプレート"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-08T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-1-0",
+      "planId": "demo-plan-1-0",
+      "date": "2030-04-09",
+      "slot": "breakfast",
+      "recipeId": "demo-toast",
+      "calories": 450,
+      "protein": 22,
+      "nutrition": {
+        "calories": 450,
+        "protein": 22,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "たまごのトースト"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-09T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-1-1",
+      "planId": "demo-plan-1-1",
+      "date": "2030-04-09",
+      "slot": "lunch",
+      "recipeId": "demo-pasta",
+      "calories": 660,
+      "protein": 24,
+      "nutrition": {
+        "calories": 660,
+        "protein": 24,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "きのこのパスタ"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-09T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-1-2",
+      "planId": "demo-plan-1-2",
+      "date": "2030-04-09",
+      "slot": "dinner",
+      "recipeId": "demo-soup",
+      "calories": 580,
+      "protein": 28,
+      "nutrition": {
+        "calories": 580,
+        "protein": 28,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "豆腐と野菜のスープ"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-09T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-2-0",
+      "planId": "demo-plan-2-0",
+      "date": "2030-04-10",
+      "slot": "breakfast",
+      "recipeId": "demo-oats",
+      "calories": 410,
+      "protein": 20,
+      "nutrition": {
+        "calories": 410,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "ヨーグルトとオーツ"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-10T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-2-1",
+      "planId": "demo-plan-2-1",
+      "date": "2030-04-10",
+      "slot": "lunch",
+      "recipeId": "demo-bowl",
+      "calories": 620,
+      "protein": 26,
+      "nutrition": {
+        "calories": 620,
+        "protein": 26,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "豆と野菜のボウル"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-10T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-2-2",
+      "planId": "demo-plan-2-2",
+      "date": "2030-04-10",
+      "slot": "dinner",
+      "recipeId": "demo-fish",
+      "calories": 710,
+      "protein": 38,
+      "nutrition": {
+        "calories": 710,
+        "protein": 38,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "魚と野菜のプレート"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-10T09:00:00+09:00"
+    },
+    {
+      "id": "demo-actual-3-0",
+      "planId": "demo-plan-3-0",
+      "date": "2030-04-11",
+      "slot": "breakfast",
+      "recipeId": "demo-toast",
+      "calories": 450,
+      "protein": 22,
+      "nutrition": {
+        "calories": 450,
+        "protein": 22,
+        "fat": 15,
+        "carbs": 60,
+        "fiber": 7
+      },
+      "recipeSnapshot": {
+        "name": "たまごのトースト"
+      },
+      "portion": 1,
+      "recordedAt": "2030-04-11T09:00:00+09:00"
+    }
+  ],
+  "customRecipes": []
+}

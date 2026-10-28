@@ -1,0 +1,26 @@
+{
+  "name": "ayumu-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "web"
+  ],
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "npm run dev --workspace web",
+    "build": "npm run build --workspace web",
+    "preview": "npm run preview --workspace web",
+    "check:runtime": "npm run check:runtime --workspace web",
+    "test": "playwright test",
+    "check:public": "node scripts/check-public.mjs"
+  },
+  "dependencies": {
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1"
+  }
+}
